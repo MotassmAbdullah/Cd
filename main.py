@@ -1,7 +1,6 @@
 import streamlit as st
 import math
 import pandas as pd
-from vpython import *
 
 
 # This is a sample Python script.
